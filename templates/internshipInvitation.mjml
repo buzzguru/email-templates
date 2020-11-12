@@ -94,31 +94,31 @@
       </mj-column>
       <mj-group width="100%">
         <mj-column>
-          <mj-image width="60px" height="35px" alt="pasport" src="https://buzzguru.github.io/email-templates/static/pasport.png" />
+          <mj-image width="40px" height="40px" alt="pasport" src="https://buzzguru.github.io/email-templates/static/pasport.png" />
           <mj-text align="center" padding="0">
             <p class="groupDescription">Паспорт</p>
           </mj-text>
         </mj-column>
         <mj-column>
-          <mj-image width="60px" height="35px" alt="notebook" src="https://buzzguru.github.io/email-templates/static/notebook.png" />
+          <mj-image width="40px" height="40px" alt="notebook" src="https://buzzguru.github.io/email-templates/static/notebook.png" />
           <mj-text align="center" padding="0">
             <p class="groupDescription">Ноутбук</p>
           </mj-text>
         </mj-column>
         <mj-column>
-          <mj-image width="60px" height="35px" alt="headphones" src="https://buzzguru.github.io/email-templates/static/headphones.png" />
+          <mj-image width="40px" height="40px" alt="headphones" src="https://buzzguru.github.io/email-templates/static/headphones.png" />
           <mj-text align="center" padding="0">
             <p class="groupDescription">Наушники</p>
           </mj-text>
         </mj-column>
         <mj-column>
-          <mj-image width="60px" height="35px" alt="cup" src="https://buzzguru.github.io/email-templates/static/cup.png" />
+          <mj-image width="40px" height="40px" alt="cup" src="https://buzzguru.github.io/email-templates/static/cup.png" />
           <mj-text align="center" padding="0">
             <p class="groupDescription">Кружка</p>
           </mj-text>
         </mj-column>
         <mj-column>
-          <mj-image width="60px" height="35px" alt="smile" src="https://buzzguru.github.io/email-templates/static/smile.png" />
+          <mj-image width="40px" height="40px" alt="smile" src="https://buzzguru.github.io/email-templates/static/smile.png" />
           <mj-text align="center" padding="0">
             <p class="groupDescription">
               Хорошее
