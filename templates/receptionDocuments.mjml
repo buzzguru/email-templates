@@ -1,0 +1,127 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+      Документы для приема в штат BuzzGuru
+    </mj-title>
+    <mj-style>
+    	.elemHeader {
+      	color: #21262c;
+      	font-size: 14px;
+	      margin: 0;
+      }
+      .elemDescription {
+      	color: #9ea9b1;
+      	font-size: 12px;
+	      margin: 0;
+      }
+      .listElem {
+      	margin: 5px 0;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-section>
+      <mj-column width="100%" padding-bottom="20px">
+        <mj-image width="150px" alt="BuzzGuru" align="left" src="https://buzzguru.github.io/email-templates/static/buzz-guru-logo-big.png" />
+        <mj-text
+          font-family="'Gotham Pro', sans-serif"
+          color="#21262c"
+          letter-spacing="-0.25px"
+          font-size="32px"
+          font-weight="bold"
+          align="left"
+        >
+					Документы, необходимые для приема в штат
+        </mj-text>
+        <mj-text
+          font-family="'Gotham Pro', sans-serif"
+          color="#4a4a4a"
+          font-size="16px"
+          align="left"
+          padding-top="24px"
+          font-weight="300"
+        >
+          Приветствуем тебя! Совсем скоро ты станешь членом нашей большой и дружной команды! Мы будем ждать тебя в назначенный день и время для трудоустройства.
+        </mj-text>
+        <mj-text
+          font-family="'Gotham Pro', sans-serif"
+          color="#4a4a4a"
+          font-size="16px"
+          align="left"
+          padding-top="24px"
+          font-weight="300"
+        >
+          <ul style="padding-left:15px">
+          	<li class="listElem">
+              <p class="elemHeader">
+                Документ, удостоверяющий личность
+              </p>
+              <p class="elemDescription">
+                (пасспорт, вид на жительство)
+              </p>
+            </li>
+          	<li class="listElem">
+              <p class="elemHeader">
+								Документ воинского учета
+              </p>
+              <p class="elemDescription">
+                (военный билет, приписное свидетельство)
+              </p>
+            </li>
+          	<li class="listElem">
+              <p class="elemHeader">
+								Трудовая книжка
+              </p>
+            </li>
+            <li class="listElem">
+              <p class="elemHeader">
+								Диплом или иной документ об образовании и профессиональной подготовке
+              </p>
+            </li>
+            <li class="listElem">
+              <p class="elemHeader">
+								Страховое свидетельство
+              </p>
+            </li>
+            <li class="listElem">
+              <p class="elemHeader">
+								Свидетельство о рождении детей до 18 лет
+              </p>
+            </li>
+            <li class="listElem">
+              <p class="elemHeader">
+                Свидетельство о заключении брака или изменении имени
+              </p>
+              <p class="elemDescription">
+                (в том случае, если диплом выдан на другую фамилию)
+              </p>
+            </li>
+            <li class="listElem">
+              <p class="elemHeader">
+                Иные документы при наличии
+              </p>
+              <p class="elemDescription">
+                (справка о самостоятельном трудоустройстве, выдаваемая молодым специалистам)
+              </p>
+            </li>
+            <li class="listElem">
+              <p class="elemHeader">
+								Фото 3*4 – 1 шт
+              </p>
+            </li>
+          </ul>
+        </mj-text>
+        <mj-text
+          font-family="'Gotham Pro', sans-serif"
+          color="#4a4a4a"
+          font-size="16px"
+          align="left"
+          padding-top="24px"
+          font-weight="300"
+        >
+					До встречи!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

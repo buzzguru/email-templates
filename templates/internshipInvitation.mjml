@@ -1,0 +1,133 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+      Приглашение на стажировку BuzzGuru
+    </mj-title>
+    <mj-style>
+    	.groupDescription {
+      	color: #4a4a4a;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-section>
+      <mj-column width="100%" padding-bottom="20px">
+        <mj-image width="150px" alt="BuzzGuru" align="left" src="https://buzzguru.github.io/email-templates/static/buzz-guru-logo-big.png" />
+        <mj-text
+          font-family="'Gotham Pro', sans-serif"
+          color="#21262c"
+          letter-spacing="-0.25px"
+          font-size="32px"
+          font-weight="bold"
+          align="left"
+        >
+					Приглашение
+          <br />
+          на стажировку BuzzGuru
+        </mj-text>
+        <mj-text
+          font-family="'Gotham Pro', sans-serif"
+          color="#4a4a4a"
+          font-size="15px"
+          align="left"
+          padding-top="24px"
+          font-weight="300"
+        >
+          Привет, [first-name]!
+          Мы готовы предложить тебе стажировку 
+          в нашей компании! Стажировка позволит тебе прокачаться 
+          в сфере influencer-маркетинга. По итогам стажировки тебя 
+          ждет экзамен, по результатам которого мы предлагаем трудоустройство в компанию!
+          Мы уверены, что полученные знания помогут тебе стать 
+          крутым специалистом и в скором времени ты станешь 
+          частью нашей команды! 
+          Стажировка пройдет с
+          [from-date]
+          по
+          [to-date]
+        </mj-text>
+      </mj-column>
+      <mj-group width="100%">
+          <mj-column width="50%">
+            <mj-image width="30px" height="30px" alt="clock" align="left" src="https://buzzguru.github.io/email-templates/static/clock.png" />
+            <mj-text align="left">
+              <h3>Продолжительность</h3>
+              <p class="groupDescription">Две недели (80 часов)</p>
+            </mj-text>
+          </mj-column>
+          <mj-column width="50%">
+            <mj-image width="30px" height="30px" alt="navigate" align="left" src="https://buzzguru.github.io/email-templates/static/navigate.png" />
+            <mj-text align="left">
+              <h3>Адрес</h3>
+              <p class="groupDescription">ул. Веры Хоружей 25/1-3, 2 этаж</p>
+            </mj-text>
+          </mj-column>
+        <mj-column width="50%">
+            <mj-image width="30px" height="30px" alt="calendar" align="left" src="https://buzzguru.github.io/email-templates/static/calendar.png" />
+            <mj-text align="left">
+              <h3>График</h3>
+              <p class="groupDescription">
+                ПН – ПТ
+                <br />
+                10.00 – 19.00
+              </p>
+            </mj-text>
+          </mj-column>
+        <mj-column width="50%">
+            <mj-image width="30px" height="30px" alt="check" align="left" src="https://buzzguru.github.io/email-templates/static/check.png" />
+            <mj-text align="left">
+              <h3>Проверка знаний</h3>
+              <p class="groupDescription">
+                Тебя ждут 2 экзамена:
+                <ul class="groupDescription" style="padding-left:15px;margin-top:-11px">
+                	<li>промежуточный</li>
+                  <li>итоговый</li>
+                </ul>
+              </p>
+            </mj-text>
+        </mj-column>
+      </mj-group>
+      <mj-column width="100%" padding-top="20px">
+        <mj-text align="left">
+        	<h2>Не забудь взять с собой:</h2>
+        </mj-text>
+      </mj-column>
+      <mj-group width="100%">
+        <mj-column>
+          <mj-image width="60px" height="35px" alt="pasport" src="https://buzzguru.github.io/email-templates/static/pasport.png" />
+          <mj-text align="center" padding="0">
+            <p class="groupDescription">Паспорт</p>
+          </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-image width="60px" height="35px" alt="notebook" src="https://buzzguru.github.io/email-templates/static/notebook.png" />
+          <mj-text align="center" padding="0">
+            <p class="groupDescription">Ноутбук</p>
+          </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-image width="60px" height="35px" alt="headphones" src="https://buzzguru.github.io/email-templates/static/headphones.png" />
+          <mj-text align="center" padding="0">
+            <p class="groupDescription">Наушники</p>
+          </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-image width="60px" height="35px" alt="cup" src="https://buzzguru.github.io/email-templates/static/cup.png" />
+          <mj-text align="center" padding="0">
+            <p class="groupDescription">Кружка</p>
+          </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-image width="60px" height="35px" alt="smile" src="https://buzzguru.github.io/email-templates/static/smile.png" />
+          <mj-text align="center" padding="0">
+            <p class="groupDescription">
+              Хорошее
+              <br />
+              настроение
+            </p>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+  </mj-body>
+</mjml>
