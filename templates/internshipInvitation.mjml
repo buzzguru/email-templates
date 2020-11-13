@@ -4,33 +4,36 @@
       Приглашение на стажировку BuzzGuru
     </mj-title>
     <mj-style>
+      .ExternalClass {
+        width: 100%;
+      }
     	.groupDescription {
       	color: #4a4a4a;
  				line-height: 20px;
       }
       .widthAuto * > img {
-      	width: auto !important;
+      	width: auto!important;
       }
       .widthMarginAuto * > img {
-        width: auto !important;
+        width: auto!important;
       	margin: auto;
       }
       .middleGroup {
-        width: 50% !important;
-        max-width: 50% !important;
+        width: 50%!important;
+        max-width: 50%!important;
       }
       .bottomGroup {
-        width: 20% !important;
-        max-width: 20% !important;
+        width: 20%!important;
+        max-width: 20%!important;
       }
       @media screen and (max-width: 576px) {
         .middleGroup {
-					width: 100% !important;
-		      max-width: 100% !important;
+					width: 100%!important;
+		      max-width: 100%!important;
         }
         .bottomGroup {
-					width: 33% !important;
-		      max-width: 33% !important;
+					width: 33%!important;
+		      max-width: 33%!important;
         }
       }
     </mj-style>
@@ -110,10 +113,10 @@
               <h3>Проверка знаний</h3>
               <p class="groupDescription">
                 Тебя ждут 2 экзамена:
-                <ul class="groupDescription" style="padding-left:15px;margin-top:-11px">
-                	<li>промежуточный</li>
-                  <li>итоговый</li>
-                </ul>
+                <br />
+                &bull;промежуточный
+                <br />
+                &bull;итоговый
               </p>
             </mj-text>
         </mj-column>

@@ -4,6 +4,9 @@
       Приглашение на собеседование в BuzzGuru
     </mj-title>
     <mj-style>
+      .ExternalClass {
+        width: 100%;
+      }
     	.elemHeader {
       	color: #21262c;
       	font-size: 14px;

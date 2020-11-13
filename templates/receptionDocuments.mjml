@@ -4,6 +4,9 @@
       Документы для приема в штат BuzzGuru
     </mj-title>
     <mj-style>
+      .ExternalClass {
+        width: 100%;
+      }
     	.elemHeader {
       	color: #21262c;
       	font-size: 14px;
@@ -14,6 +17,7 @@
       	font-size: 12px;
 	      margin: 0;
       	line-height: 15px;
+      	padding-left: 10px;
       }
       .listElem {
       	margin: 5px 0;
@@ -55,65 +59,63 @@
           font-weight="300"
           line-height="20px"
         >
-          <ul style="padding-left:15px">
-          	<li class="listElem">
-              <p class="elemHeader">
-                Документ, удостоверяющий личность
-              </p>
-              <p class="elemDescription">
-                (пасспорт, вид на жительство)
-              </p>
-            </li>
-          	<li class="listElem">
-              <p class="elemHeader">
-								Документ воинского учета
-              </p>
-              <p class="elemDescription">
-                (военный билет, приписное свидетельство)
-              </p>
-            </li>
-          	<li class="listElem">
-              <p class="elemHeader">
-								Трудовая книжка
-              </p>
-            </li>
-            <li class="listElem">
-              <p class="elemHeader">
-								Диплом или иной документ об образовании и профессиональной подготовке
-              </p>
-            </li>
-            <li class="listElem">
-              <p class="elemHeader">
-								Страховое свидетельство
-              </p>
-            </li>
-            <li class="listElem">
-              <p class="elemHeader">
-								Свидетельство о рождении детей до 18 лет
-              </p>
-            </li>
-            <li class="listElem">
-              <p class="elemHeader">
-                Свидетельство о заключении брака или изменении имени
-              </p>
-              <p class="elemDescription">
-                (в том случае, если диплом выдан на другую фамилию)
-              </p>
-            </li>
-            <li class="listElem">
-              <p class="elemHeader">
-                Иные документы при наличии
-              </p>
-              <p class="elemDescription">
-                (справка о самостоятельном трудоустройстве, выдаваемая молодым специалистам)
-              </p>
-            </li>
-            <li class="listElem">
-              <p class="elemHeader">
-								Фото 3*4 – 1 шт
-              </p>
-            </li>
-          </ul>
+          <p class="listElem">
+            <p class="elemHeader">
+              &bull; Документ, удостоверяющий личность
+            </p>
+            <p class="elemDescription">
+              (пасспорт, вид на жительство)
+            </p>
+          </p>
+          <p class="listElem">
+            <p class="elemHeader">
+							&bull; Документ воинского учета
+            </p>
+            <p class="elemDescription">
+              (военный билет, приписное свидетельство)
+            </p>
+          </p>
+          <p class="listElem">
+            <p class="elemHeader">
+							&bull; Трудовая книжка
+            </p>
+          </p>
+          <p class="listElem">
+            <p class="elemHeader">
+							&bull; Диплом или иной документ об образовании и профессиональной подготовке
+            </p>
+          </p>
+          <p class="listElem">
+            <p class="elemHeader">
+							&bull; Страховое свидетельство
+            </p>
+          </p>
+          <p class="listElem">
+            <p class="elemHeader">
+							&bull; Свидетельство о рождении детей до 18 лет
+            </p>
+          </p>
+          <p class="listElem">
+            <p class="elemHeader">
+              &bull; Свидетельство о заключении брака или изменении имени
+            </p>
+            <p class="elemDescription">
+              (в том случае, если диплом выдан на другую фамилию)
+            </p>
+          </p>
+          <p class="listElem">
+            <p class="elemHeader">
+              &bull; Иные документы при наличии
+            </p>
+            <p class="elemDescription">
+              (справка о самостоятельном трудоустройстве, выдаваемая молодым специалистам)
+            </p>
+          </p>
+          <p class="listElem">
+            <p class="elemHeader">
+							&bull; Фото 3*4 – 1 шт
+            </p>
+          </p>
         </mj-text>
         <mj-text
           font-family="'Gotham Pro', sans-serif"
