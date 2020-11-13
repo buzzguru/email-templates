@@ -13,6 +13,7 @@
       	color: #9ea9b1;
       	font-size: 12px;
 	      margin: 0;
+      	line-height: 15px;
       }
       .listElem {
       	margin: 5px 0;
@@ -31,6 +32,7 @@
           font-weight="bold"
           align="left"
         >
+          <br />
 					Документы, необходимые для приема в штат
         </mj-text>
         <mj-text
@@ -40,6 +42,7 @@
           align="left"
           padding-top="24px"
           font-weight="300"
+          line-height="20px"
         >
           Приветствуем тебя! Совсем скоро ты станешь членом нашей большой и дружной команды! Мы будем ждать тебя в назначенный день и время для трудоустройства.
         </mj-text>
@@ -50,6 +53,7 @@
           align="left"
           padding-top="24px"
           font-weight="300"
+          line-height="20px"
         >
           <ul style="padding-left:15px">
           	<li class="listElem">
