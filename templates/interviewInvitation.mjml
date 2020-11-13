@@ -31,7 +31,7 @@
           font-weight="bold"
           align="left"
         >
-					Приглашение на собеседование
+					<br>Приглашение на собеседование
         </mj-text>
         <mj-text
           font-family="'Gotham Pro', sans-serif"
@@ -41,7 +41,7 @@
           padding-top="24px"
           font-weight="300"
         >
-          Добрый день, [first-name]!
+          Добрый день, [first-name]!<br>
           Мы оценили ваш опыт и личные качества и рады сообщить, что готовы пригласить вас на личное собеседование 
           на вакансию [vacancy-title].
           <br />
@@ -53,7 +53,7 @@
           г. Минск ул. Веры Хоружей, 25\1, 2 этаж
 					<br />
           <br />
-          Дата: [vacancy-date] Время: [vacancy-time]
+          Дата: [vacancy-date] <br>Время: [vacancy-time]
         </mj-text>
         <mj-image width="600px" alt="map" align="center" src="https://buzzguru.github.io/email-templates/static/map.jpg" />
         <mj-text
